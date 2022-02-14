@@ -82,7 +82,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.4.6.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<!-- mvn install:install-file -Dfile=D:\Download\ojdbc6.jar -DgroupId=com.oracle 
 			-DartifactId=ojdbc6 -Dversion=11.2.0.4 -Dpackaging=jar -->
